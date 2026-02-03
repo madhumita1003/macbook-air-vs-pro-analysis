@@ -46,7 +46,7 @@ project-folder/
 
 ---
 
-## 📚 Data Description
+## Data Description
 
 The dataset includes yearly observations for both MacBook Air and MacBook Pro models:
 
