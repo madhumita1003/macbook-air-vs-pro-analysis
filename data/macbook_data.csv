@@ -1,0 +1,11 @@
+model,category,year,price_usd,units_millions,chip
+MacBook Air,Air,2019,999,14,Intel
+MacBook Air,Air,2020,999,17,M1
+MacBook Air,Air,2021,999,18,M1
+MacBook Air,Air,2022,1199,20,M2
+MacBook Air,Air,2023,1199,19,M2
+MacBook Pro,Pro,2019,1299,8,Intel
+MacBook Pro,Pro,2020,1299,10,M1
+MacBook Pro,Pro,2021,1999,11,M1 Pro
+MacBook Pro,Pro,2022,1999,10,M2 Pro
+MacBook Pro,Pro,2023,1999,12,M3 Pro
