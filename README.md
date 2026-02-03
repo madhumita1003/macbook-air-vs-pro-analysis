@@ -27,22 +27,22 @@ This blend of analytics + AI modeling demonstrates skills in:
 
 ## Repository Structure
 
-
+```
 project-folder/
 │
 ├── data/
-│ └── macbook_data.csv
+│   └── macbook_data.csv
 │
 ├── analysis/
-│ └── macbook_analysis.ipynb
+│   └── macbook_analysis.ipynb
 │
 ├── visuals/
-│ ├── price_trends.png
-│ ├── unit_share.png
-│ └── chip_adoption.png
+│   ├── price_trends.png
+│   ├── unit_share.png
+│   └── chip_adoption.png
 │
 └── README.md
-
+```
 
 ---
 
